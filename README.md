@@ -1,67 +1,79 @@
-# What's up 👋 I'm Guilherme Lago
+# 🚀 Zontek Services
 
-🚀 Desenvolvedor focado em sistemas inteligentes e análise de dados  
-💡 Construindo plataformas orientadas a dados para decisões estratégicas  
+💡 Digital solutions focused on software development, automation, and data-driven systems.
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Us
 
-- 💻 Desenvolvedor Backend & Data Analytics
-- ⚽ Criador da plataforma **SoccerMind**
-- 🔗 Integração de APIs e processamento de dados
-- 📊 Foco em sistemas escaláveis e inteligentes
+Zontek is an initiative focused on building:
+
+- ⚙️ Scalable backend systems  
+- 📊 Data analysis and processing solutions  
+- 🔗 API integrations and automation workflows  
+- 🧠 Intelligent systems driven by data  
+
+---
+
+## 🚀 What We Build
+
+### 📊 Data & Analytics
+- Intelligent dashboards  
+- Large-scale data processing  
+- ETL pipelines  
+
+### ⚙️ Backend Systems
+- RESTful APIs  
+- Scalable architecture  
+- Service integrations  
+
+### 🤖 Automation
+- Business process automation  
+- System integrations  
+- Smart workflows and scripts  
+
+---
+
+## 🧪 Projects
+
+- ⚽ **SoccerMind**  
+A data-driven platform for player scouting and analysis  
+
+- 📊 **Analytics Dashboard**  
+Real-time metrics visualization  
+
+- 🔄 **Data Pipeline**  
+Automated ETL (Extract, Transform, Load) systems  
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Backend**
-- Node.js, TypeScript, Python
+- Node.js, TypeScript, Python  
 
-**Banco de Dados**
-- PostgreSQL, MongoDB, Redis
+**Databases**
+- PostgreSQL, MongoDB, Redis  
 
-**Frontend**
-- React, Next.js, Tailwind
-
-**Ferramentas**
-- Docker, Git, Postman
+**Tools & Infrastructure**
+- Docker, Git, External APIs  
 
 ---
 
-## 🚀 Projetos em destaque
+## 📈 GitHub Stats
 
-- ⚽ SoccerMind → Plataforma de scouting e análise de jogadores  
-- 📊 Dashboard Analytics → Visualização de dados em tempo real  
-- 🔄 ETL Pipeline → Processamento automatizado de dados  
+![Stats](https://github-readme-stats.vercel.app/api?username=ZontekServicos&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔗 Conecte-se comigo
+## 🤝 Contact
 
+- 📧 Email: guilhermelagosantana@gmail.com  
 - 💼 LinkedIn:  
 https://www.linkedin.com/in/guilherme-lago-72b221297/
 
-- 🧠 GitHub Principal:  
-https://github.com/Guilherme-Lago
-
-- 🧪 GitHub Labs:  
-https://github.com/ZontekServicos
-
-- 📩 Email:  
-guilhermelagosantana@gmail.com
-
 ---
 
-## 📊 GitHub Stats
+## 🚀 Mission
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Lago&show_icons=true&theme=tokyonight)
-
----
-
-## 🚀 Atualmente
-
-- 📈 Evoluindo a SoccerMind
-- 🔐 Estudando Cybersecurity
-- ⚙️ Melhorando arquitetura backend
+Building technology that transforms data into strategic decision-making.
